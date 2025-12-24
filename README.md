@@ -1,10 +1,10 @@
 ## Hi I'm Leslie,
 
-A current student at UNLV majoring in Computer Science 💻
+Computer Science Student at UNLV
 
 - 💼 I’m currently working at Scholarty as a Backend Developer, building a networking platform for students.
 - 📚 Aside from University, I'm also enrolled in Harvard's CS50 Python course.
-- 📧 Contact Me: leslaygonzalez@gmail.com
+- 📧 Contact Me: leslaygonzalez@gmail.com 
 
 <!--
 **leslieprograms/leslieprograms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
