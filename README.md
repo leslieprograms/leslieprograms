@@ -2,8 +2,9 @@
 
 Computer Science Student at UNLV
 
-- 💼 I’m currently an intern at Scholarty as a Backend Developer, a networking platform for students. Check out: [Youtube Link](https://youtu.be/ToryxYfBz8Q?si=C2jCglerGTFukaq4)
+- 💼 I’m currently working at Scholarty as a Backend Developer, a networking platform for students. Check out: [Youtube Link](https://youtu.be/ToryxYfBz8Q?si=C2jCglerGTFukaq4)
 - 📚 Aside from University, I'm also enrolled in Harvard's CS50 Python course.
+- ⭐ Looking for Summer 2026 internship.
 - 📧 Contact Me: leslaygonzalez@gmail.com 
 
 ## Tech Stack:
