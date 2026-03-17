@@ -4,7 +4,6 @@ Computer Science Student at UNLV
 
 - 💼 Previous experience: Software Engineer Intern at Scholarty.
 - 📚 Aside from University, I'm also enrolled in Harvard's CS50 Python course.
-- ⭐ Looking for Summer 2026 internship.
 - 📧 Contact Me: leslaygonzalez@gmail.com 
 
 ## Tech Stack:
