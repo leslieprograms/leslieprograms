@@ -1,9 +1,8 @@
 ## Hi I'm Leslie,
 
-Computer Science Student at UNLV
-
-- 💼 Previous experience: Software Engineer Intern and Web Developer Freelance.
-- 📚 Aside from University, I'm currently learning Cloud Computing.
+- 💼 Previous experience: Software Engineer Intern and Freelance Web Developer.
+- 📚 Computer Science Student at the University of Nevada, Las Vegas
+- ⭐ Interests: Software Development, AI, and Cloud Computing
 - 📧 Contact Me: leslaygonzalez@gmail.com 
 
 ## Tech Stack:
