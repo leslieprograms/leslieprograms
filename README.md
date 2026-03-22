@@ -2,7 +2,7 @@
 
 Computer Science Student at UNLV
 
-- 💼 Previous experience: Software Engineer Intern at Scholarty.
+- 💼 Previous experience: Software Engineer Intern and Web Developer Freelance.
 - 📚 Aside from University, I'm currently learning Cloud Computing.
 - 📧 Contact Me: leslaygonzalez@gmail.com 
 
