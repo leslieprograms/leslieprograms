@@ -1,6 +1,6 @@
 ## Hi I'm Leslie,
 
-- 💼 Previous experience: Software Engineer Intern and Freelance Web Developer.
+- 💼 Application Development Intern
 - 📚 Computer Science Student at the University of Nevada, Las Vegas
 - ⭐ Interests: Software Development, AI, and Cloud Computing
 - 📧 Contact Me: leslaygonzalez@gmail.com 
