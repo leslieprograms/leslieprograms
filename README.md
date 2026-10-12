@@ -10,8 +10,8 @@
 
 ### About Me
 
-- Currently an Application Development Intern  
-- Computer Science Student at the University of Nevada, Las Vegas
+- Application Development Intern at Clark County Water Reclamation District
+- Computer Science Major at UNLV
 - Expected Graduation: December 2027
 
 ### Tech Stack
@@ -54,6 +54,3 @@
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=leslieprograms&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/leslieprograms">leslieprograms</a></i></p>
